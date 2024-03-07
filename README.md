@@ -1,7 +1,7 @@
 <h1 align="center">Olá👋, eu sou João Victor Dos Santos Almeida</h1>
 <h3 align="center">Transformando ideias em código e desafios em soluções inovadoras. Em busca de oportunidades para impactar positivamente com minha paixão pelo desenvolvimento.</h3>
 
-- 🌱 Atualmente estou aprendendo **Java e Node.js **
+- 🌱 Atualmente estou aprendendo **Java e Node.js**
 
 - 💬 Pergunte-me sobre **Bootstrap, React e Java**
 
